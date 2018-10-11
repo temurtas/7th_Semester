@@ -13,3 +13,6 @@
 [submodule "EE493"]
 	path = EE493
 	url = https://github.com/temurtas/EE493
+[submodule "EE447"]
+	path = EE447
+	url = https://github.com/temurtas/EE447
