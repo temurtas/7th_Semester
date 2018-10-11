@@ -1,0 +1,15 @@
+[submodule "EE407"]
+	path = EE407
+	url = https://github.com/temurtas/EE407
+[submodule "EE402"]
+	path = EE402
+	url = https://github.com/temurtas/EE402
+[submodule "EE441"]
+	path = EE441
+	url = https://github.com/temurtas/EE441
+[submodule "EE430"]
+	path = EE430
+	url = https://github.com/temurtas/EE430
+[submodule "EE493"]
+	path = EE493
+	url = https://github.com/temurtas/EE493
